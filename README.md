@@ -1,4 +1,4 @@
-# 📱 Mobile Sales Data Dashboard  
+# 📱 Mobile Sales Dashboard  
 
 ## 📌 Objective  
 The goal of this project was to create an **interactive dashboard** to analyze mobile sales data across India.  
